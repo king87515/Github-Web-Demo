@@ -10,7 +10,7 @@ categories: github
 
 
 ## Github 架設網頁
-[TOC]
+
 ## Step 1 : 建立 github 帳號
 這部分我我就跳過，註冊很簡單，我就附上網路的教學[開始使用 GitHub](https://progressbar.tw/posts/3)。
 建立完成如下圖:
